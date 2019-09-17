@@ -2,5 +2,7 @@
 Court
 Bats
 Balls
+Net
+Tutor
 
 Thank You
